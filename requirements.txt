@@ -1,3 +1,8 @@
 rdkit-pypi
 pillow
 nglview
+simpletraj
+matplotlib
+scikit-learn
+pandas
+pyemma
